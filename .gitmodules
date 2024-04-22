@@ -1,0 +1,9 @@
+[submodule "cloud-app-webapp"]
+	path = cloud-app-webapp
+	url = git@github.com:qianwei-yin/cloud-app-webapp.git
+[submodule "cloud-app-tf-gcp-infra"]
+	path = cloud-app-tf-gcp-infra
+	url = git@github.com:qianwei-yin/cloud-app-tf-gcp-infra.git
+[submodule "cloud-app-serverless"]
+	path = cloud-app-serverless
+	url = git@github.com:qianwei-yin/cloud-app-serverless.git
